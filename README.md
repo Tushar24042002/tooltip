@@ -8,7 +8,7 @@ Install the package via npm:
 
 ```bash
 npm install quick-emoji-pro
-
+```
 
 Example:
 
